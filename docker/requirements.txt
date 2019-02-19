@@ -15,3 +15,5 @@ seaborn
 statsmodels
 ggplot
 scikit-image
+grass-session
+grass
